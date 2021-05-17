@@ -1,0 +1,5 @@
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Services\bin\Debug\net5.0\MyVeggieGarden.Models.dll
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Services\obj\Debug\net5.0\MyVeggieGarden.Services.csprojAssemblyReference.cache
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Services\obj\Debug\net5.0\MyVeggieGarden.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Services\obj\Debug\net5.0\MyVeggieGarden.Services.AssemblyInfoInputs.cache
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Services\obj\Debug\net5.0\MyVeggieGarden.Services.AssemblyInfo.cs

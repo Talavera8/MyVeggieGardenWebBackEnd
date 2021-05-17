@@ -1,0 +1,14 @@
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\bin\Debug\netcoreapp3.1\MyVeggieGarden.Identity.deps.json
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\bin\Debug\netcoreapp3.1\MyVeggieGarden.Identity.dll
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\bin\Debug\netcoreapp3.1\MyVeggieGarden.Identity.pdb
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\bin\Debug\netcoreapp3.1\MyVeggieGarden.Models.dll
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\bin\Debug\netcoreapp3.1\MyVeggieGarden.Repository.dll
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\bin\Debug\netcoreapp3.1\MyVeggieGarden.Models.pdb
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\bin\Debug\netcoreapp3.1\MyVeggieGarden.Repository.pdb
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\obj\Debug\netcoreapp3.1\MyVeggieGarden.Identity.csprojAssemblyReference.cache
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\obj\Debug\netcoreapp3.1\MyVeggieGarden.Identity.AssemblyInfoInputs.cache
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\obj\Debug\netcoreapp3.1\MyVeggieGarden.Identity.AssemblyInfo.cs
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\obj\Debug\netcoreapp3.1\MyVeggieGarden.Identity.csproj.CoreCompileInputs.cache
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\obj\Debug\netcoreapp3.1\MyVeggieGarden.Identity.csproj.CopyComplete
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\obj\Debug\netcoreapp3.1\MyVeggieGarden.Identity.dll
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Identity\obj\Debug\netcoreapp3.1\MyVeggieGarden.Identity.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Models\bin\Debug\netcoreapp3.1\MyVeggieGarden.Models.deps.json
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Models\bin\Debug\netcoreapp3.1\MyVeggieGarden.Models.dll
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Models\bin\Debug\netcoreapp3.1\MyVeggieGarden.Models.pdb
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Models\obj\Debug\netcoreapp3.1\MyVeggieGarden.Models.AssemblyInfoInputs.cache
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Models\obj\Debug\netcoreapp3.1\MyVeggieGarden.Models.AssemblyInfo.cs
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Models\obj\Debug\netcoreapp3.1\MyVeggieGarden.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Models\obj\Debug\netcoreapp3.1\MyVeggieGarden.Models.dll
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Models\obj\Debug\netcoreapp3.1\MyVeggieGarden.Models.pdb
+C:\Users\User\MyProjects\MyVeggieGarden\MyVeggieGarden.Models\obj\Debug\netcoreapp3.1\MyVeggieGarden.Models.csprojAssemblyReference.cache
